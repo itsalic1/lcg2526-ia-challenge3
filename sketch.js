@@ -114,8 +114,8 @@ function drawSun(x, y) {
   scale(scala);
   noStroke();
   fill("orange");
-  ellipse(0, 0, 20);
+  ellipse(0, 0, 40);
   fill("yellow");
-  ellipse(0, 0, 10);
+  ellipse(0, 0, 20);
   pop();
 }
